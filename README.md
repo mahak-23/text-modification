@@ -4,4 +4,4 @@
 
 | Date of Release  | Version of Release | PRs for Release | Released by    | Remarks       |
 | ---------------- | ------------------ | --------------- | -------------- | ------------- |
-| 14 February 2024 | v0.1.0             | Primary Release | Mahak Kushwaha | Primary Entry |
+| 10 March 2024 | v0.1.0             | Primary Release | Mahak Kushwaha | Primary Entry |
