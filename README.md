@@ -1,3 +1,5 @@
+![image](https://github.com/mahak-23/text-modification/assets/107416996/52f4cc1c-1464-4cda-a9e7-8342db9a7489)
+
 # Production release record
 ## Text-modification [Live](https://text-modification.netlify.app/)
 ### Node version - 14.17.1
